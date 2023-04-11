@@ -1,0 +1,1 @@
+import{d as e,_ as s,a as t,j as n,o as a}from"./index-efbe35bc.js";const c=e({setup(){}}),r={class:"max-w-7xl mx-auto px-5 overflow-hidden font-poppins"};function p(o,d,i,_,f,l){return a(),t("section",r,[n(o.$slots,"default")])}const u=s(c,[["render",p]]);export{u as C};
